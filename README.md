@@ -1,1 +1,8 @@
 # Kaggle-Paris-Housing-Price-prediction-
+Paris Housing price prediction is a part of Kaggle's Playground Series where synthetically generated datasets are provided to work on and develop models which are evaluated based on the rmse of the 80% of the unseen test dataset.
+
+Paris housing price prediction using Random Forest in Scikit-learn is a machine learning project that uses the Random Forest algorithm to predict the housing prices in Paris based on various features such as the size of the property, location, number of rooms, etc. The main steps involved in this project are importing necessary libraries, loading the dataset, cleaning and preprocessing the data, splitting the data into training and testing sets, creating a Random Forest model, training the model on the training set, evaluating the model on the testing set, and making predictions on new data.
+
+Scikit-learn is a popular Python library for machine learning and provides many tools for data preprocessing, model selection, and evaluation. Random Forest is a powerful and flexible algorithm that can handle a large number of features and nonlinear relationships between them. The accuracy of the model can be improved by tuning the hyperparameters of the Random Forest algorithm, such as the number of trees, the maximum depth of the trees, and the number of features used at each split.
+
+In summary, Paris housing price prediction using Random Forest in Scikit-learn is a useful project for anyone interested in applying machine learning techniques to real-world problems and can help real estate agents, property buyers, and sellers make better decisions based on accurate predictions of housing prices.
